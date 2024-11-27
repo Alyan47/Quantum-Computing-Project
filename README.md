@@ -38,6 +38,6 @@ Explore scalability using quantum hardware.
 Expand the methodology to other medical imaging applications.
 
 ## References
-* Quantum Transfer Learning Article
-* Kaggle Chest X-Ray Dataset
+* https://aanshsavla.hashnode.dev/pneumonia-detection-using-quantum-transfer-learning
+* https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 * https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning
